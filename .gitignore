@@ -1,0 +1,49 @@
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Dataset (large files)
+
+data/*
+!data/sample_data.csv
+
+# Model weights
+
+*.h5
+*.pt
+*.pth
+*.pkl
+
+# Streamlit
+
+.streamlit/
+
+# VS Code
+
+.vscode/
+
+# Environment variables
+
+.env

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <vType id="car" accel="2.6" decel="4.5" maxSpeed="13" length="5"/>
+
+    <flow id="north_south" from="N2C" to="C2S" begin="0" end="3600" vehsPerHour="300"/>
+    <flow id="south_north" from="S2C" to="C2N" begin="0" end="3600" vehsPerHour="300"/>
+    <flow id="east_west"  from="E2C" to="C2W" begin="0" end="3600" vehsPerHour="300"/>
+    <flow id="west_east"  from="W2C" to="C2E" begin="0" end="3600" vehsPerHour="300"/>
+</routes>
