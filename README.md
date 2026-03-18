@@ -152,7 +152,7 @@ The dashboard visualizes these metrics in **real time graphs and charts**.
 ##  Author
 
 Rachi Rajpal
-B.Tech CSE Student
+B.Tech CSE Pre-Final Year Student
 
 ---
 
