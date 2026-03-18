@@ -47,3 +47,8 @@ data/*
 # Environment variables
 
 .env
+
+rl_env/
+venv/
+__pycache__/
+*.pyc
