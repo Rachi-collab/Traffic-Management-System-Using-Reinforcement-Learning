@@ -1,4 +1,4 @@
-# 🚦 AI Traffic Signal Control System using Reinforcement Learning
+# 🚦Traffic Management System using Reinforcement Learning
 
 ##  Overview
 
