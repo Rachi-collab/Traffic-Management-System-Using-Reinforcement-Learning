@@ -109,7 +109,7 @@ This course significantly enhanced my ability to build real-world AI-driven solu
   It enhanced understanding of UI/UX design, modular coding, and testing.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Rachi-collab/Traffic-Management-System-Using-Reinforcement-Learning.git" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
@@ -196,9 +196,8 @@ During my internship period, I actively participated in community service activi
 
 ### **Photos**
 
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
-
+(https://github.com/Rachi-collab/Traffic-Management-System-Using-Reinforcement-Learning.git)
+  
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
