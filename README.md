@@ -99,7 +99,7 @@ This course significantly enhanced my ability to build real-world AI-driven solu
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="[<!-- Add link to full report -->](https://github.com/Rachi-collab/Traffic-Management-System-Using-Reinforcement-Learning.git)" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
