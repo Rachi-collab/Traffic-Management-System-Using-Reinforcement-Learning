@@ -63,22 +63,32 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During this course, I developed strong fundamentals in Artificial Intelligence and Reinforcement Learning.  
+I learned how to design intelligent agents that can interact with dynamic environments and make optimal decisions over time.
+
+Through hands-on implementation using SUMO (Simulation of Urban Mobility), I gained practical experience in:
+- Designing custom Gymnasium environments
+- Handling real-time traffic simulations
+- Implementing multi-lane traffic aggregation
+- Applying Proximal Policy Optimization (PPO) for decision-making
+
+Additionally, I improved my skills in:
+- Problem-solving using RL
+- System design and simulation modeling
+- Data analysis and performance evaluation
+- Debugging real-world simulation issues
+
+This course significantly enhanced my ability to build real-world AI-driven solutions.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
+<p><strong><a href="#project1">Project 1:</a></strong> Basic Web Development Project</p>
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> Intermediate Application Development</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project3">Project 3:</a></strong> AI-Based Traffic Signal Optimization using Reinforcement Learning</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
@@ -103,13 +113,40 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 </p>
 
 <!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
+<h3 id="project3">Project 3: AI-Based Traffic Signal Optimization using Reinforcement Learning</h3>
+
 <p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
+This project focuses on developing a smart traffic signal control system using Reinforcement Learning (RL) to reduce traffic congestion at a 4-way intersection.
 </p>
+
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+A custom simulation environment was created using SUMO, where an RL agent dynamically controls traffic signal phases based on real-time traffic conditions.
+</p>
+
+<p>
+Key features of the project include:
+</p>
+
+<ul>
+<li>Multi-lane traffic handling using edge-based aggregation</li>
+<li>State representation using a 2x2 spatial grid for CNN input</li>
+<li>Reward function based on minimizing queue length and vehicle stops</li>
+<li>Use of Proximal Policy Optimization (PPO) for training</li>
+<li>Performance comparison with fixed-time traffic signals</li>
+</ul>
+
+<p>
+The model demonstrated significant improvements in reducing waiting time and increasing traffic throughput, especially under medium and high traffic densities.
+</p>
+
+<p>
+<strong>Technologies Used:</strong> Python, SUMO, Gymnasium, Stable-Baselines3, PyTorch, Streamlit
+</p>
+
+<p>
+<a href="https://github.com/YOUR_GITHUB_REPO_LINK" target="_blank">
+
+</a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -124,28 +161,31 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+LST (Life Skill Training) and SST (Soft Skill Training) sessions helped me improve both my personal and professional development.
+
+From LST sessions, I learned:
+- Time management and discipline
+- Self-confidence and goal setting
+- Handling real-world challenges effectively
+
+From SST sessions, I developed:
+- Communication and presentation skills
+- Team collaboration and coordination
+- Problem-solving in group environments
+
+These sessions played an important role in preparing me for real-world professional environments.
 
 ## **Community Services**
-
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I actively participated in community service activities that contributed to social responsibility and teamwork.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
+- **Tree Plantation Drive** – Participated by planting 5 trees and contributing to environmental improvement.
+
+
+- **Helping Elder Citizens** – Assisted  elderly individuals with simple daily tasks and provided support where needed. 
+
 
 ### **Impact / Contribution**
 
