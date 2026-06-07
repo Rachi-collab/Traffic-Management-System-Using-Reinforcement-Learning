@@ -155,7 +155,7 @@ The model demonstrated significant improvements in reducing waiting time and inc
 ##  References & Resources
 
 ### Frameworks, Tools & Libraries
-* **Python Data Science Stack:** * [Python Documentation](https://www.python.org/doc/) — Core programming language used for data manipulation and environment scripting.
+* **Python Data Science Stack:** [Python Documentation](https://www.python.org/doc/) — Core programming language used for data manipulation and environment scripting.
   * [NumPy Documentation](https://numpy.org/doc/) — Used for handling multi-dimensional arrays and matrix calculations in the RL state space.
   * [Pandas Documentation](https://pandas.pydata.org/docs/) — Utilized for data structuring and analysis of traffic flow metrics.
 * **Reinforcement Learning Environments:**
