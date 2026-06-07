@@ -197,16 +197,12 @@ During my internship period, I actively participated in community service activi
 ### **Photos**
 
 (https://github.com/Rachi-collab/Traffic-Management-System-Using-Reinforcement-Learning.git)
-  
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1Q1BWp87IlMaUS-Vmz7JPKR0ZVgwrIv7f/view?usp=drive_link" alt="Community Service Photo 1" width="30%">
-<img src="https://drive.google.com/file/d/1mpdWi3TdVXOsdZTu1p7-27zAwCn00ZUl/view?usp=sharing" alt="Community Service Photo 2" width="30%">
-<img src="https://drive.google.com/file/d/1j7wEsiPQBsmlmmaxYGthwZCFUn8IF4HX/view?usp=drive_link" alt="Community Service Photo 3" width="30%">
+  <img src="https://lh3.googleusercontent.com/d/1Q1BWp87IlMaUS-Vmz7JPKR0ZVgwrIv7f" alt="Community Service Photo 1" width="30%">
+  <img src="https://lh3.googleusercontent.com/d/1mpdWi3TdVXOsdZTu1p7-27zAwCn00ZUl" alt="Community Service Photo 2" width="30%">
+  <img src="https://lh3.googleusercontent.com/d/1j7wEsiPQBsmlmmaxYGthwZCFUn8IF4HX" alt="Community Service Photo 3" width="30%">
 </div>
-
----
 
 ## **Certificate**
 
