@@ -152,11 +152,15 @@ The model demonstrated significant improvements in reducing waiting time and inc
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
-## **References**
+##  References & Resources
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+### Frameworks, Tools & Libraries
+* **Python Data Science Stack:** * [Python Documentation](https://www.python.org/doc/) — Core programming language used for data manipulation and environment scripting.
+  * [NumPy Documentation](https://numpy.org/doc/) — Used for handling multi-dimensional arrays and matrix calculations in the RL state space.
+  * [Pandas Documentation](https://pandas.pydata.org/docs/) — Utilized for data structuring and analysis of traffic flow metrics.
+* **Reinforcement Learning Environments:**
+  * [OpenAI Gym / Gymnasium](https://gymnasium.farama.org/) — The standard toolkit used for developing and comparing reinforcement learning algorithms.
+  * [SUMO (Simulation of Urban MObility)](https://eclipse.dev/sumo/) — Open-source, highly portable, microscopic road traffic simulation package.
 
 
 ## **Learnings from LST and SST**
