@@ -33,12 +33,6 @@ The trained RL agent showed significant improvements over fixed-time signal cont
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.x
-- [SUMO](https://eclipse.dev/sumo/) installed and added to your system PATH
-- pip
-
 ### Installation
 
 ```bash
