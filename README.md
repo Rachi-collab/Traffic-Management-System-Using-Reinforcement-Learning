@@ -54,8 +54,6 @@ python evaluate.py
 streamlit run app.py
 ```
 
-> Note: Adjust the commands above to match your actual script names if they differ.
-
 ## Project Structure
 
 ```
