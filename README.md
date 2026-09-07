@@ -70,7 +70,6 @@ Traffic-Management-System-Using-Reinforcement-Learning/
 ## Future Improvements
 
 - Extend to multi-intersection / network-wide traffic control
-- Incorporate real-world traffic data
 - Experiment with alternative RL algorithms (e.g., DQN, A2C) for comparison
 
 ## Acknowledgments
