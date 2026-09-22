@@ -39,4 +39,4 @@ with open("logs/queue_baseline.csv", "w", newline="") as f:
     writer.writerow(["step", "queue"])
     writer.writerows(queue_log)
 
-print("✅ Baseline queue saved to logs/queue_baseline.csv")
+print("Baseline queue saved to logs/queue_baseline.csv")
