@@ -5,7 +5,6 @@
         <route-files value="intersection.rou.xml"/>
     </input>
 
-    <!-- ADD BELOW -->
     <time>
         <step-length value="0.5"/>
     </time>
